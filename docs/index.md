@@ -1,36 +1,83 @@
-## Welcome to GitHub Pages
+## 面试题梳理
 
-You can use the [editor on GitHub](https://github.com/seosite/blog/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+记录一下自己在面试过程中遇到的一些面试题
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### gin和echo的路由实现
 
-### Markdown
+### TCP四次挥手和三次握手
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### TCP time-wait产生的原因以及如何调整
 
-```markdown
-Syntax highlighted code block
+### Go channel并发安全
 
-# Header 1
-## Header 2
-### Header 3
+### Go和PHP的技术选型
 
-- Bulleted
-- List
+### Go CSP并发模型
 
-1. Numbered
-2. List
+### Go routine
 
-**Bold** and _Italic_ and `Code` text
+### Go gc机制，小变量，怎么调优
 
-[Link](url) and ![Image](src)
-```
+### Go
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### GRPC协议
 
-### Jekyll Themes
+### http 304
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seosite/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 为什么要使用GRPC而不是http
+
+### 最大QPS
+
+### 分库分表实现
+
+### 请求一个接口超时，排查过程
+
+### 微服务的实现流程
+
+### 微服务服务发现实现过程
+
+### 为什么微服务在服务发现的过程中，需要先请求服务中心，然后再请求具体的接口
+
+### 只使用MySQL怎么应对高并发（比如秒杀系统）
+
+### MySQL为什么使用B+树，以及B+树的内部实现原理
+
+### MySQL索引使用原则
+
+### MySQL索引原理
+
+### MySQL事务安全级别
+
+### MySQL乐观锁和悲观锁，以及为什么不使用乐观锁
+
+### Redis索引底层实现
+
+### Redis zSet 的权重的作用
+
+### Redis 怎么保证原子性
+
+### Redis缓存雪崩、缓存穿透、缓存击穿
+
+### rabbitmq的内部实现机制
+
+### rabbitmq怎么保证顺序消费
+
+### rabbitmq怎么保证数据不会丢失
+
+### rabbitmq怎么保证数据不会重复消费
+
+### 大文件排序（100亿的数据，取出最小的100个值怎么做？）
+
+### 中位遍历
+
+### 两数之和
+
+### 单链表反转、节点删除
+
+### FSM状态机
+
+### 做过的项目中，映象最深刻的是哪个？
+
 
 ### Support or Contact
 
