@@ -4,19 +4,19 @@
 
 ### gin和echo的路由实现
 
-### TCP四次挥手和三次握手
+### [TCP四次挥手和三次握手](https://seosite.github.io/blog/tcp/)
 
-### TCP time-wait产生的原因以及如何调整
+### [TCP time-wait产生的原因以及如何调整](https://seosite.github.io/blog/tcp/)
 
-### Go channel并发安全
+### [Go channel并发安全](https://seosite.github.io/blog/go/)
 
-### Go和PHP的技术选型
+### [Go和PHP的技术选型](https://seosite.github.io/blog/go/)
 
-### Go CSP并发模型
+### [Go CSP并发模型](https://seosite.github.io/blog/go/)
 
-### Go routine
+### [Go routine](https://seosite.github.io/blog/go/)
 
-### Go gc机制，小变量，怎么调优
+### [Go gc机制，小变量，怎么调优](https://seosite.github.io/blog/go/)
 
 ### Go map底层实现
 
