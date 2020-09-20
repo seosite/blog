@@ -4,31 +4,35 @@
 
 ### gin和echo的路由实现
 
-### [TCP四次挥手和三次握手](https://seosite.github.io/blog/tcp/)
+### [TCP四次挥手和三次握手](https://seosite.github.io/blog/tcp)
 
-### [TCP time-wait产生的原因以及如何调整](https://seosite.github.io/blog/tcp/)
+### [TCP time-wait产生的原因以及如何调整](https://seosite.github.io/blog/tcp)
 
-### [Go channel并发安全](https://seosite.github.io/blog/go/)
+### [Go channel并发安全](https://seosite.github.io/blog/go)
 
-### [Go和PHP的技术选型](https://seosite.github.io/blog/go/)
+### [Go和PHP的技术选型](https://seosite.github.io/blog/go)
 
-### [Go CSP并发模型](https://seosite.github.io/blog/go/)
+### [Go CSP并发模型](https://seosite.github.io/blog/go)
 
-### [Go routine](https://seosite.github.io/blog/go/)
+### [Go routine](https://seosite.github.io/blog/go)
 
-### [Go gc机制，小变量，怎么调优](https://seosite.github.io/blog/go/)
+### [Go gc机制，小变量，怎么调优](https://seosite.github.io/blog/go)
 
-### Go map底层实现
+### [Go map底层实现](https://seosite.github.io/blog/go)
 
-### sync.map 怎么实现线程安全
+### [sync.map 怎么实现线程安全](https://seosite.github.io/blog/go)
 
-### go死锁，以及怎么解决死锁
+### [go死锁，以及怎么解决死锁](https://seosite.github.io/blog/go)
 
-### GRPC协议
+### [怎么实现线程池](https://seosite.github.io/blog/go)
+
+### [GRPC协议](https://seosite.github.io/blog/grpc)
+
+### [GRPC 重试时间是怎么定义出来的](https://seosite.github.io/blog/grpc)
 
 ### http 304
 
-### 为什么要使用GRPC而不是http
+### [为什么要使用GRPC而不是http](https://seosite.github.io/blog/grpc)
 
 ### 最大QPS
 
@@ -63,6 +67,8 @@
 ### Redis 缓存雪崩、缓存穿透、缓存击穿
 
 ### Redis 部署模式
+
+### Redis 哨兵挂了怎么办
 
 ### rabbitmq的内部实现机制
 

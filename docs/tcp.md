@@ -1,0 +1,3 @@
+### TCP四次挥手和三次握手
+
+四次挥手：TCP是全双工的，每个方向都需要单独的关闭。当client发送fin+ack告诉server它发送完了最后一次数据，但是server端可能还有数据需要发送，故而server端回复client第一次是一个ack，第二次是自己数据发送结束后，会发送一个fin+ack告知client，server的数据也发送完了，可以关闭连接了
