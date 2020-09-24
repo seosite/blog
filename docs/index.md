@@ -126,6 +126,10 @@
 
 ### CI/CD
 
+### git pull和git merge的区别
+
+### git pull的过程中想要有rebase的结果怎么操作
+
 ### 做过的项目中，映象最深刻的是哪个？
 
 
