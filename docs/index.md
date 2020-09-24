@@ -2,9 +2,21 @@
 
 记录一下自己在面试过程中遇到的一些面试题
 
+## GOLang
+
 ### gin和echo的路由实现
 
+### gin和echo的区别
+
+### gin源码
+
+### go 多态
+
+### map 扩容
+
 ### [TCP四次挥手和三次握手](https://seosite.github.io/blog/tcp)
+
+### TCP三次握手过程中信号传递的状态机
 
 ### [TCP time-wait产生的原因以及如何调整](https://seosite.github.io/blog/tcp)
 
@@ -26,6 +38,8 @@
 
 ### [怎么实现线程池](https://seosite.github.io/blog/go)
 
+## 网络协议
+
 ### [GRPC协议](https://seosite.github.io/blog/grpc)
 
 ### [GRPC 重试时间是怎么定义出来的](https://seosite.github.io/blog/grpc)
@@ -40,23 +54,35 @@
 
 ### 请求一个接口超时，排查过程
 
+## 微服务
+
 ### 微服务的实现流程
 
 ### 微服务服务发现实现过程
 
 ### 为什么微服务在服务发现的过程中，需要先请求服务中心，然后再请求具体的接口
 
-### 只使用MySQL怎么应对高并发（比如秒杀系统）
+## MySQL
 
-### MySQL为什么使用B+树，以及B+树的内部实现原理
+### [1.MySQL主键索引和普通索引的区别](https://seosite.github.io/blog/mysql/1)
 
-### MySQL索引使用原则
+### [2.只使用MySQL怎么应对高并发（比如秒杀系统）](https://seosite.github.io/blog/mysql/2)
 
-### MySQL索引原理
+### [3.MySQL为什么使用B+树，以及B+树的内部实现原理](https://seosite.github.io/blog/mysql/3)
 
-### MySQL事务安全级别
+### [4.MySQL 执行sql语句的顺序](https://seosite.github.io/blog/mysql/4)
 
-### MySQL乐观锁和悲观锁，以及为什么不使用乐观锁
+### [5.MySQL索引原理](https://seosite.github.io/blog/mysql/5)
+
+### [6.where和having使用原则](https://seosite.github.io/blog/mysql/6)
+
+### [7.MySQL事务安全级别，以及如何设置](https://seosite.github.io/blog/mysql/7)
+
+### [8.MySQL乐观锁和悲观锁，以及为什么不使用乐观锁](https://seosite.github.io/blog/mysql/8)
+
+### [9.MySQL MVCC并发版本控制](https://seosite.github.io/blog/mysql/9)
+
+## Redis
 
 ### Redis索引底层实现
 
@@ -70,6 +96,8 @@
 
 ### Redis 哨兵挂了怎么办
 
+## MQ
+
 ### rabbitmq的内部实现机制
 
 ### rabbitmq怎么保证顺序消费
@@ -78,9 +106,15 @@
 
 ### rabbitmq怎么保证数据不会重复消费
 
+### rabbitmq怎么保证消费者迅速消费数据，数据发生堆积了怎么办
+
 ### rabbitmq和kafka的区别，kafka有哪些特性rabbitmq没有的
 
+## 算法
+
 ### 大文件排序（100亿的数据，取出最小的100个值怎么做？）
+
+### 10个G的订单，按照商品价格排序（内存有限，无法直接遍历全部的数据）
 
 ### 中位遍历
 
@@ -89,6 +123,8 @@
 ### 单链表反转、节点删除
 
 ### FSM状态机
+
+### CI/CD
 
 ### 做过的项目中，映象最深刻的是哪个？
 
