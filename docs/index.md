@@ -84,17 +84,21 @@
 
 ## Redis
 
-### Redis索引底层实现
+### [1.Redis为什么是单线程以及为什么这么快](https://seosite.github.io/blog/redis/1)
 
-### Redis zSet 的权重的作用
+### [2.Redis zSet的权重的作用](https://seosite.github.io/blog/redis/2)
 
-### Redis 怎么保证原子性
+### [3.Redis怎么保证原子性](https://seosite.github.io/blog/redis/3)
 
-### Redis 缓存雪崩、缓存穿透、缓存击穿
+### [4.Redis的内部实现](https://seosite.github.io/blog/redis/4)
 
-### Redis 部署模式
+### [5.Redis缓存雪崩、缓存穿透、缓存击穿](https://seosite.github.io/blog/redis/5)
 
-### Redis 哨兵挂了怎么办
+### [6.Redis部署模式](https://seosite.github.io/blog/redis/6)
+
+### [7.Redis哨兵挂了怎么办](https://seosite.github.io/blog/redis/7)
+
+### [8.Redis持久化选择](https://seosite.github.io/blog/redis/8)
 
 ## MQ
 
@@ -132,6 +136,9 @@
 
 ### 做过的项目中，映象最深刻的是哪个？
 
+### 虚拟内存
+
+### connection by peer
 
 ### Support or Contact
 
